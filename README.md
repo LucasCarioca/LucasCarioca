@@ -8,7 +8,7 @@
 
 A simple starter crud template for deploying a Spring Boot app with ReactJS frontend on Azure App Service and Storage Static website.
 
-[See on Github](https://github.com/LucasCarioca/spring-react-azure-app-service) | [Create app with this template](https://github.com/LucasCarioca/spring-react-azure-app-service/generate)
+<button onclick="https://github.com/LucasCarioca/spring-react-azure-app-service">See on Github</button> <button onclick="https://github.com/LucasCarioca/spring-react-azure-app-service/generate">Create app with this template</button>
 
 ## Key Projects
 
