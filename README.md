@@ -1,6 +1,6 @@
 # Lucas DeSouza
 
-## Project Template 
+## Project Templates 
 
 ### Spring Boot & ReactJS Template
 
