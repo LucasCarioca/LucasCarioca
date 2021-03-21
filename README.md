@@ -10,6 +10,12 @@ A simple starter crud template for deploying a Spring Boot app with ReactJS fron
 
 [See on Github](https://github.com/LucasCarioca/spring-react-azure-app-service) | [Create app with this template](https://github.com/LucasCarioca/spring-react-azure-app-service/generate)
 
+### FastAPI & ReactJS Template
+
+A simple starter crud template for deploying a FastAPI app with ReactJS frontend on Azure App Service and Storage Static website.
+
+[See on Github](https://github.com/LucasCarioca/fastapi-react-azure-app-service) | [Create app with this template](https://github.com/LucasCarioca/fastapi-react-azure-app-service/generate)
+
 ## Key Projects
 
 ### Breath
