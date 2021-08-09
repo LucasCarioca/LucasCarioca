@@ -1,5 +1,9 @@
 # Lucas DeSouza
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCarioca&show_icons=true&theme=calm&hide=stars,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCarioca&hide=html,css&langs_count=5&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Project Templates 
 
 ### Spring Boot & ReactJS Template
