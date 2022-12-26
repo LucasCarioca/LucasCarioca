@@ -4,21 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCarioca&hide=html,css&langs_count=5&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
-## Project Templates 
-
-### Spring Boot & ReactJS Template
-
-<img src="https://github.com/LucasCarioca/spring-react-azure-app-service/blob/main/assets/stack.png?raw=true"/>
-
-A simple starter crud template for deploying a Spring Boot app with ReactJS frontend on Azure App Service and Storage Static website.
-
-[See on Github](https://github.com/LucasCarioca/spring-react-azure-app-service) | [Create app with this template](https://github.com/LucasCarioca/spring-react-azure-app-service/generate)
-
-### FastAPI & ReactJS Template
-
-A simple starter crud template for deploying a FastAPI app with ReactJS frontend on Azure App Service and Storage Static website.
-
-[See on Github](https://github.com/LucasCarioca/fastapi-react-azure-app-service) | [Create app with this template](https://github.com/LucasCarioca/fastapi-react-azure-app-service/generate)
+<!-- ## Project Templates -->
 
 ## Key Projects
 
@@ -36,9 +22,3 @@ Count my breaths is an app created for pet owners who have a pet living with hea
 iBru allows you to manage your homebrew beers, meads, wines and more. Create your brew record and track specific gravity readings to know when your brew is ready as well as calculating they current and potential ABV of the brew.
 
 [iOS](https://apps.apple.com/us/app/ibru/id1550959672) | [iOS Repo](https://github.com/LucasCarioca/ibru)
-
-### US Covid19 Stats
-
-Simple web app for US covid 19 stats. Uses the covid tracking project to create a dashboard of new cases, hospitalizations, and death stats in the US. 
-
-[Web](https://covid-stats.lucasdesouza.net) | [Web Repo](https://github.com/LucasCarioca/covid-stats)
